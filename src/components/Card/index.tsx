@@ -1,4 +1,4 @@
 export const Card = () => {
-    return <h1>Cardiii</h1>;
+    return <h1>Card</h1>;
 };
 
