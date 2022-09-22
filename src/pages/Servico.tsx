@@ -8,10 +8,8 @@ export const Servico = () => {
         <img src={img} alt="" className="" />
         <main>
              <h1>Serviço:</h1>
-             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Aut, doloribus possimus.Et asperiores consectetur, ab esse,
-                deleniti voluptatibus voluptates illo quo eaque ullam 
-                quod! Nulla quod sapiente odio tempore veritatis!F</p>
+             <p>Oferecemos suporte local ou remoto ilimitado, gerenciamento de servidor, rede e e-mail, backups, monitoramento e manutenção preventiva, segurança cibernética e muito mais.
+             Nossa equipe conta com analistas bilíngues/trilíngues (português, inglês e espanhol) prontos para atender suas necessidades.</p>
         </main>
         </>
     )
