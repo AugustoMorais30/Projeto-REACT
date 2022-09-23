@@ -9,18 +9,17 @@ export const Contato = () => {
             <img src={img} alt="" className="" />
             <main>
                 <h1>Contato:</h1>
-                <p>+55 (85) 98778-0479</p>
                 <form action="" >
                     <div>
-                        <label form="name">Nome: </label>
+                        <label form="name">Nome e Sobrenome: </label>
                         <input type="text" id="name" />
                     </div>
                     <div>
-                        <label form="email">E-mail: </label>
+                        <label form="email">Seu E-mail: </label>
                         <input type="email" id="email" />
                     </div>
                     <div>
-                        <label form="mensagem">Mensagem: </label>
+                        <label form="mensagem">Numero para Contato: </label>
                         <input type="mensagem" id="mensagem" />
                     </div>
                     <div className="button">

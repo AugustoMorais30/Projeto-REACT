@@ -1,5 +1,6 @@
 import { Menu } from "../components/Menu";
 import img from '../img/home.jpg'
+import '../pages/Home.css'
 
 export const Home = () => {
     return(
@@ -8,8 +9,7 @@ export const Home = () => {
         <img src={img} alt="" className="" />
         <main>
              <h1>Home</h1>
-             <p>
-             </p>
+             <p>QUEM QUER RESULTADO PRECISA DE ESTRATÉGIA E PONTO FINAL.</p>
         </main>        
         </>
     )

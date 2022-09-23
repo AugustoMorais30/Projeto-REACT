@@ -1,3 +1,8 @@
 input{
     border: solid;
 }
+label{
+    font-family: Andale Mono, monospace;
+    align-items: center;
+    text-align: center;
+}
